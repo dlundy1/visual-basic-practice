@@ -1,0 +1,57 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TestAirportDistances
+</name>
+</assembly>
+<members>
+<member name="T:TestAirportDistances.AirportsTest">
+<summary>
+This is a test class for AirportsTest and is intended
+to contain all AirportsTest Unit Tests
+</summary>
+</member>
+<member name="P:TestAirportDistances.AirportsTest.TestContext">
+<summary>
+Gets or sets the test context which provides
+information about and functionality for the current test run.
+</summary>
+</member>
+<member name="M:TestAirportDistances.AirportsTest.CoordinateToDegreesTest">
+<summary>
+A test for CoordinateToDegrees
+</summary>
+</member>
+<member name="M:TestAirportDistances.AirportsTest.DegreesToRadiansTest">
+<summary>
+A test for DegreesToRadians
+</summary>
+</member>
+<member name="M:TestAirportDistances.AirportsTest.RadiansToDegreesTest">
+<summary>
+A test for RadiansToDegrees
+</summary>
+</member>
+<member name="M:TestAirportDistances.AirportsTest.DistanceTest">
+<summary>
+A test for Distance
+</summary>
+</member>
+<member name="M:TestAirportDistances.AirportsTest.ValueOfTest1">
+<summary>
+A test for ValueOf (City)
+</summary>
+</member>
+<member name="M:TestAirportDistances.AirportsTest.ValueOfTest2">
+<summary>
+A test for ValueOf (Latitude)
+</summary>
+</member>
+<member name="M:TestAirportDistances.AirportsTest.ValueOfTest3">
+<summary>
+A test for ValueOf (Longitude)
+</summary>
+</member>
+</members>
+</doc>

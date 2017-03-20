@@ -1,0 +1,13 @@
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\bin\Debug\sem6-student_info.exe.config
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\bin\Debug\sem6-student_info.exe
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\bin\Debug\sem6-student_info.pdb
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\bin\Debug\sem6-student_info.xml
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\obj\Debug\sem6_student_info.Form1.resources
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\obj\Debug\sem6_student_info.Resources.resources
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\obj\Debug\sem6-student_info.vbproj.GenerateResource.Cache
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\obj\Debug\sem6-student_info.exe
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\obj\Debug\sem6-student_info.xml
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\obj\Debug\sem6-student_info.pdb
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\obj\Debug\sem6_student_info.Form2.resources
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\obj\Debug\sem6_student_info.AboutBox1.resources
+c:\users\d.velep\documents\visual studio 2013\Projects\sem6-student_info\sem6-student_info\obj\Debug\sem6_student_info.SplashScreen1.resources
